@@ -1,0 +1,15 @@
+Experiments on caches attacks
+
+l3_eviction
+l3_eviction_mod
+
+are implementations of
+
+Liu, F., Yarom, Y., Ge, Q., Heiser, G., & Lee, R. B. (2015, May). Last-level
+cache side-channel attacks are practical. In Security and Privacy (SP), 2015
+IEEE Symposium on (pp. 605-622). IEEE.
+
+l3
+
+is a side channel made through a mmap of a file (Idea from Éric Alata "Maître de
+conférences at LAAS-CNRS and INSA Toulouse)
