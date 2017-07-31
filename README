@@ -11,5 +11,5 @@ IEEE Symposium on (pp. 605-622). IEEE.
 
 l3
 
-is a side channel made through a mmap of a file (Idea from Éric Alata "Maître de
+is a side channel made through the mmap of a file (Idea from Éric Alata "Maître de
 conférences at LAAS-CNRS and INSA Toulouse)
